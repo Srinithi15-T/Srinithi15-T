@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Srinithi! 👋
 
-<!--
-**Srinithi15-T/Srinithi15-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2nd Year B.Tech Information Technology Student**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an enthusiastic IT student who loves learning new technologies, improving my programming skills, and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Information Technology
+- 🏫 VSB Engineering College of Technical Campus
+- 🌱 Currently learning programming, Data Structures, and Object-Oriented Programming
+- 💡 Interested in software development and emerging technologies
+- 🚀 Working on improving my technical and problem-solving skills
+- 🎯 Goal: To become a skilled software developer
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** C, Python, Java
+- **Core Subjects:** Data Structures, OOP, DBMS
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** Web Development and Software Projects
+
+## 📂 Projects
+
+- **Smart Curriculum Activity & Attendance App** — An academic project focused on curriculum activities and student attendance management.
+- **Programming Practice** — Basic programs and problem-solving exercises using C, Python, and Java.
+
+## 📈 My Goals
+
+- Strengthen my programming fundamentals
+- Build real-world projects
+- Learn new technologies
+- Prepare for internships and career opportunities
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Add your LinkedIn profile link]https://www.linkedin.com/in/johndoe/
+- 🐙 GitHub: [Add your GitHub profile link] https://github.com/johndoe
+-email:t.srinithi15@gmail.com
+---
+
+⭐ *"Learning today, building tomorrow!"*
